@@ -1,0 +1,86 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "missing": {
+      "textures": "textures/misc/missing_texture"
+    },
+    "grass_side": {
+      "textures": [
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        {
+          "path": "textures/blocks/grass_side",
+          "overlay_color": "#ffffff"
+        },
+        "textures/blocks/grass_side_snowed"
+      ]
+    },
+    "grass_carried": {
+      "textures": {
+        "path": "textures/blocks/grass_side",
+        "overlay_color": "#ffffff"
+      }
+    }
+  }
+}
